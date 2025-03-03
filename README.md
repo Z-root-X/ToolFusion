@@ -37,12 +37,5 @@ To get started, you need Python 3.x and pip installed. Once you have them instal
    git clone https://github.com/Z-root-X/ToolFusion.git
    cd ToolFusion
 
-   
-### **How to Use**:
-1. Copy the above markdown content.
-2. Create a file named `README.md` in the root directory of your project.
-3. Paste the content into this file.
-4. Customize the fields such as `your-username` and `your-email@example.com` to match your details.
 
-This **README.md** will provide clear instructions for users to install, use, and contribute to your **ToolFusion** project.
 
